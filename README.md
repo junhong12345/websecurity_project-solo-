@@ -138,12 +138,8 @@ AI
 Generated Outputs
 
 프로그램 실행 후 다음과 같은 결과가 생성된다.
-LLM_txt_result.txt
-
-LLM_json_result.json
-
-website_security_report.md
-
-website_security_report.pdf
-
-screenshot.png
+* LLM_txt_result.txt
+* LLM_json_result.json
+* website_security_report.md
+* website_security_report.pdf
+* screenshot.png
