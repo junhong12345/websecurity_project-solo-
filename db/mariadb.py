@@ -8,7 +8,7 @@ class MariaDB:
     def __init__(self):
         self.database_url = os.getenv(
             "DATABASE_URL",
-            "mysql+pymysql://api_user:curry010@13.125.217.38:3306/result_db"
+            "mysql+pymysql://secret_key"
         )
 
         self.engine = create_engine(
